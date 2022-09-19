@@ -4,4 +4,5 @@
 
 - max-width or max-height means this is the upper limit. Media query will not work above that.
 
-- Tip to remember: ### min means start from here and max means end here!!!
+- Tip to remember: 
+  ### min means start from here and max means end here!!!
